@@ -2,7 +2,7 @@
 layout: post
 title: "⚡ JavaScript কী? – ওয়েবসাইটকে জীবন্ত করে তোলার মস্তিষ্ক যেটা সবকিছু চালায়"
 date: 2026-01-13 10:00:00 +0530
-thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-js/js-cover.png
+thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-js/image1.png
 ---
 
 # ⚡ JavaScript — ওয়েবসাইটের মস্তিষ্ক
